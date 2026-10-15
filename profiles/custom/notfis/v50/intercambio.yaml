@@ -1,0 +1,34 @@
+class: Proceda\Intercambio
+registro: "000"
+required: false
+
+remetente:
+  length: 30
+  offset: 004
+  required: true
+  # IDENTIFICAÇÃO DO REMETENTE A 35 004 M
+
+destinatario:
+  length: 35
+  offset: 034
+  required: true
+  # IDENTIFICAÇÃO DO DESTINATÁRIO A 35 039 M
+
+data:
+  length: 6
+  offset: 074
+  required: true
+  # DATA N 6 074 M
+
+hora:
+  type: time
+  length: 4
+  offset: 080
+  required: true
+  # HORA N 4 080 M
+
+identificacao:
+  length: 12
+  offset: 084
+  required: true
+  # IDENTIFICAÇÃO DO INTERCÂMBIO A 12 084 M

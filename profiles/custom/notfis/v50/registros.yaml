@@ -1,0 +1,9 @@
+- identificacao: "000"
+  length: 320
+  build: false
+  required: false
+
+- identificacao: "XYZ"
+  length: 320
+  build: false
+  required: false

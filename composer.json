@@ -1,0 +1,19 @@
+{
+  "name": "proceda/fixtures",
+  "description": "Fixtures and test data generators for Proceda.",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": "^8.4",
+    "proceda/proceda": "^1.0",
+    "fakerphp/faker": "^1.24"
+  },
+  "autoload": {
+    "psr-4": {
+      "Proceda\\Fixtures\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  }
+}

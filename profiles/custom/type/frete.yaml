@@ -1,0 +1,24 @@
+Frete/Condicao:
+  - name: CIF
+    value: "C"
+    label: CIF
+
+  - name: FOB
+    value: "F"
+    label: FOB
+
+  - name: XYZ
+    value: 'X'
+    label: XYZ
+
+
+Frete/Modalidade:
+  - name: Distribuicao
+    value: "00"
+    label: Distribuição
+
+
+Frete/MyType:
+  - name: Test
+    value: "50"
+    label: Test

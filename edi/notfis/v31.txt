@@ -1,0 +1,28 @@
+000EMPRESA TESTE LOGISTICA LTDA       TRANSPORTADORA EXEMPLO LTDA        2506251430NOTFIS_TEST
+310NOT11112222S
+31192754738038305188073524116   AVENIDA BELTRANO A MASATOSHI SHINMYO, 30BAURU                              01111-780SP       10102000464 - CENTRO DE DISTRIBUICAO
+312FULANO DA SILVA                          12345678901   ISENTO         RUA DAS FLORES, 123                    CENTRO              SAO PAULO                          01001000 3550308  SP       00011110231122                         2
+313ROM-2961              112CTB 0001643711082026                              00001000000000000062350000054     S                                                                                    000000000000735I
+3140000200
+317TRANSPORTADORA EXEMPLO LTDA             12345678000199123456789012345AVENIDA DOS TRANSPORTES, 1500           DISTRITO INDUSTRIAL CAMPINAS                            13010000 3509502  SP       CONTATO LOGISTICA
+313ROM-3071              112C20 0001643711082016ELETRONICOS    AMARRADOS      00001000000000032034890000054     S                                      N                                             000000000000735I
+3140000100
+3140000500PEÇA       	 645646061                     0000300PEÇA           645646044                     0000400PEÇA           645646079                     0000100PEÇA           645646052
+3140000200PEÇA           605992022                     0000100PEÇA           605992014                     0000100PEÇA           605992031                     0000200PEÇA           605992049
+315Pacheco S.A.                            64530178000695308290373384920Av. Natan, 4. Apto 6124                 d'Oeste             Porto Ingrid                       63959-820200339355PE       90459-7589
+317TRANSPORTADORA EXEMPLO LTDA             12345678000199123456789012345AVENIDA DOS TRANSPORTES, 1500           DISTRITO INDUSTRIAL CAMPINAS                            13010000 3509502  SP       CONTATO LOGISTICA
+33351020                        DOCA           NDANONE - F
+318000000002208114000000000032100               000000000005000
+310NOTFI101000040
+31115427207000203298167930119   RUA FULANO SILVA RODRIGUES AGOSTINO, 137EMBU DAS ARTES                     06833300 SP       12082016INFRACOMMERCE NEGÓCIOS E SOLUÇÕES LTDA
+312899 - ECOMMERCE                         92754008027109               ESTRADA DA LAMA PRETA, 2800             SANTA CRUZ          RIO DE JANEIRO                     23575-450         RJ                                              1
+313464510323      009464 1  C4  312598  08102022               PEÇA           0064900000000003203489004000000000N                               DAH0957N                                                                                      35221092754738038305550040003125981621717330
+3140000500PEÇA       	 645646061                     0000300PEÇA           645646044                     0000400PEÇA           645646079                     0000100PEÇA           645646052
+3140000200PEÇA           605992022                     0000100PEÇA           605992014                     0000100PEÇA           605992031                     0000200PEÇA           605992049
+3140000100PEÇA           636654421                     0000100PEÇA           622829067                     0000100PEÇA           622829059                     0000200PEÇA           638446087
+3140000601PEÇA           636100020                     0000100PEÇA           622111117                     0000800PEÇA           621111059                     0000200PEÇA           632222087
+315Pacheco S.A.                            64530178000695308290373384920Av. Natan, 4. Apto 6124                 d'Oeste             Porto Ingrid                       63959-820200339355PE       90459-7589
+316TRANSPORTADORA RESPONSAVEL LTDA         12345678000195123456789012345RUA DAS FLORES 100                      CENTRO              SAO PAULO                          012345678355030800SP       000111999999999
+317464 - CENTRO DE DISTRIBUICAO            92754008038305188073524116   AVENIDA BELTRANO A MASATOSHI SHINMYO, 30FONTES              BAURU                              07400-780         SP
+33312340                        PORTO          N111111111111111
+318000000015551327000000000171000000000000000000000000000073600000000000000000000000000000000

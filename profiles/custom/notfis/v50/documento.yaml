@@ -1,0 +1,20 @@
+path: intercambio/documento
+class: Proceda\Documento\Notfis
+registro: "500"
+required: false
+collection: true
+occurs: 200
+
+identificacao:
+  length: 14
+  offset: 004
+  required: false
+  # IDENTIFICAÇÃO DO DOCUMENTO A 14 004 M
+
+valorTotal:
+  registro: "XYZ"
+  length: 15
+  offset: 004
+  required: false
+  decimals: 2
+  # VALOR TOTAL DAS NOTAS FISCAIS N 13,2 004 M
