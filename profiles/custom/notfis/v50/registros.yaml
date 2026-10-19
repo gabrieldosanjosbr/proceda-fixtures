@@ -2,8 +2,10 @@
   length: 320
   build: false
   required: false
+  occurs: 1
 
 - identificacao: "XYZ"
   length: 320
   build: false
   required: false
+  occurs: 1
