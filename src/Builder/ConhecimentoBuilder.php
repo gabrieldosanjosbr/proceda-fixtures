@@ -76,6 +76,9 @@ final class ConhecimentoBuilder extends BaseConhecimentoBuilder
         $self->contaRazao = $conhecimento->getContaRazao();
         $self->codigoIva = $conhecimento->getCodigoIva();
         $self->devolucao = $conhecimento->getDevolucao();
+        $self->codSolicitacaoColeta = $conhecimento->getCodSolicitacaoColeta();
+        $self->idDocTransporte = $conhecimento->getIdDocTransporte();
+        $self->idDocAutorizacao = $conhecimento->getIdDocAutorizacao();
         $self->resumo = $conhecimento->getResumo();
         $self->contratante = $conhecimento->getContratante();
         $self->emissor = $conhecimento->getEmissor();

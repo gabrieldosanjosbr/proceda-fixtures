@@ -17,6 +17,18 @@ final class ConhecimentoFactory extends Factory
             contaRazao: self::alphanumeric('contaRazao', 'CR#####'),
             codigoIva: self::type('codigoIva'),
             devolucao: self::boolean('devolucao'),
+            codSolicitacaoColeta: self::alphanumeric(
+                'codSolicitacaoColeta',
+                'SOL-###########',
+            ),
+            idDocTransporte: self::alphanumeric(
+                'idDocTransporte',
+                'TRANS-##############',
+            ),
+            idDocAutorizacao: self::alphanumeric(
+                'idDocAutorizacao',
+                'AUTORIZACAO-########',
+            ),
             resumo: null,
             contratante: null,
             emissor: null,
